@@ -1,6 +1,7 @@
 <IfModule mod_rewrite.c>
     <IfModule mod_negotiation.c>
         Options -MultiViews
+	Options Indexes FollowSymLinks
     </IfModule>
 
     RewriteEngine On
@@ -9,7 +10,7 @@
     ## You may need to uncomment the following line for some hosting environments,
     ## if you have installed to a subdirectory, enter the name here also.
     ##
-    # RewriteBase /
+     RewriteBase /var/www/idxos
 
     ##
     ## Black list protected files

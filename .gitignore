@@ -1,3 +1,6 @@
+.sass_cache
+/config/database.php
+/config/app.php
 /bootstrap/compiled.php
 /vendor
 composer.lock
