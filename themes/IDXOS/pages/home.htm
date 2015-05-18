@@ -1,0 +1,16 @@
+title = "Home"
+url = "/"
+layout = "default"
+hidden = "0"
+==
+<div class="row">
+    <section class="col-xs-12">
+        {% content 'welcome/welcome.htm' %}
+    </section>
+</div>
+
+
+  
+{% put scripts %}
+    <script type="text/javascript" src="{{ ['assets/javascript/app.js']|theme }}"></script>
+{% endput %}

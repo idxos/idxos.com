@@ -1,0 +1,18 @@
+title = "Forum"
+url = "/forum"
+hidden = "0"
+
+[forumChannels]
+
+
+[forumTopics]
+topicsPerPage = "20"
+==
+<div class="row">{% component 'forumChannels' %}
+    <section class="col-xs-8">
+        {% component 'forumChannels' %}
+    </section>
+    <section class="col-xs-4">
+        {% component 'forumTopics' %}
+    </section>
+</div>

@@ -1,0 +1,12 @@
+title = "Forum Channel"
+url = "/forum/channel/:slug"
+hidden = "0"
+
+[forumChannel]
+slug = "{{ :slug }}"
+==
+<div class="row">{% component 'forumChannel' %}
+    <section class="col-xs-12">
+        {% component 'forumChannel' %}
+    </section>
+</div>
