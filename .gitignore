@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .sass_cache
 /config/database.php
 /config/app.php
@@ -17,3 +18,7 @@ sftp-config.json
 selenium.php
 .env.*.php
 .env.php
+=======
+.sass-cache
+*.css.map
+>>>>>>> 3b593f0dc52f8029cf0a7ce6cf59563400cfc8a5

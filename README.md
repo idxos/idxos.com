@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="https://github.com/octobercms/october/blob/master/themes/demo/assets/images/october.png?raw=true" alt="October" />
 </p>
@@ -51,3 +52,7 @@ The OctoberCMS platform is open-sourced software licensed under the [MIT license
 ### Contributing
 
 Before sending a Pull Request, be sure to review the [Contributing Guidelines](CONTRIBUTING.md) first.
+=======
+# idxos.com
+Primary repo for idxos.com hosted on DigitalOcean server.
+>>>>>>> 3b593f0dc52f8029cf0a7ce6cf59563400cfc8a5
