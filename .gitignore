@@ -18,3 +18,11 @@ selenium.php
 .env.*.php
 .env.php
 
+.sublime-project
+.editorconfig
+
+npm-debug.log
+node_modules/*
+bower_components/*
+
+

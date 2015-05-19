@@ -1,0 +1,31 @@
+{
+  "name": "idxos",
+  "version": "1.0.0",
+  "description": "IDX october theme",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bower": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/idxos/idxos.com.git"
+  },
+  "keywords": [
+    "idxos",
+    "octobercms",
+    "theme",
+    "roberts"
+  ],
+  "author": "Christopher J. Roberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idxos/idxos.com/issues"
+  }
+}

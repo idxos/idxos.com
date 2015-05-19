@@ -1,19 +1,14 @@
 {
-    "name": "october/demo-theme",
+    "name": "october/IDXOS",
     "type": "october-theme",
-    "description": "Demo OctoberCMS theme",
-    "keywords": ["october", "cms", "demo", "theme"],
+    "description": "Official custom theme for IDXOS master website.",
+    "keywords": ["idxos", "cms", "demo", "october", "theme"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com",
-            "role": "Co-founder"
-        },
-        {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com",
-            "role": "Co-founder"
+            "name": "Christopher J. Roberts",
+            "email": "croberts@lknpro.com",
+            "role": "Lead Developer"
         }
     ],
     "require": {
