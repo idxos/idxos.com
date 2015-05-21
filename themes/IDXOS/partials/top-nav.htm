@@ -1,0 +1,42 @@
+description = "The top navigation of page"
+
+[session]
+security = "all"
+==
+<header id="layout-header">
+  <nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-right" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <icon class="ion-navicon size-20"></icon>
+          </button>
+          <a class="navbar-brand" href="{{ 'home'|page }}">Roberts</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-main-collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="{% if this.page.id == 'account' %}active{% endif %}"><a href="{{ 'account'|page }}">Account</a></li>
+          <li class="{% if this.page.id == 'blog' %}active{% endif %}"><a href="{{ 'blog'|page }}">Blog</a></li>
+          <li class="{% if this.page.id == 'forum' %}active{% endif %}"><a href="{{ 'forum'|page }}">Forum</a></li>
+          <li class="{% if this.page.id == 'calendar-api' %}active{% endif %}"><a href="{{ 'calendar-api'|page }}">Calendar API</a></li>
+          <li class="dropdown {% if this.page.id == 'sandbox' %}active{% endif %}">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sandbox <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="{{ 'sanddbox/one-col'|page }}">One Col Layout</a></li>
+              <li><a href="{{ 'sanddbox/two-col'|page }}">Two Col Layout</a></li>
+              <li><a href="{{ 'sanddbox/grid-view'|page }}">Grid View Layout</a></li>
+              <li><a href="{{ 'sanddbox/list-view'|page }}">List View Layout</a></li>
+            </ul>
+          </li>
+         
+          
+         
+          {% if user %}
+               {% component 'session' %}
+              <li><a href="#" data-request="onLogout">Logout</a></li>
+          {% endif %}
+          
+        </ul>
+      </div>
+    </div>
+  </nav>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>idxos.com blog roll</title>
+		<link>http://idxos.com/blog</link>
+		<description>Custom blog roll about web development</description>
+		<atom:link href="http://idxos.com/blog/rss.xml" rel="self" type="application/rss+xml" />
+
+		<item>
+			<title>Demo Test Post One</title>
+			<link>http://idxos.com/blog/blog/post/demo-test-post-one</link>
+			<guid>http://idxos.com/blog/blog/post/demo-test-post-one</guid>
+			<pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;This is the first post used as a demo to see whats up.&lt;/p&gt;</description>
+		</item>
+	</channel>
+</rss>

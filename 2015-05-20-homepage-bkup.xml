@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homepage>
+    <rotation>
+        <name>New Rotation 4</name>
+        <start>1415951999</start>
+        <end>1416470400</end>
+        <key>new-rotation-4</key>
+        <enabled>1</enabled>
+        <hero>
+            <slide>
+                <href>/shoe-style/stiletto-heels</href>
+                <title>Shop Stilettos</title>
+                <img>/2014/11/2014-11-14-stiletto.jpg</img>
+                <mobile>/2014/11/2014-11-14-stiletto-m.jpg</mobile>
+                <overlay>Shop Stilettos</overlay>
+            </slide>
+            <slide>
+                <href>/womens-shoes/dany-pewter-sequin-fabric.html</href>
+                <title>Jessica Simpson Dany - $49.99</title>
+                <img>/2014/11/2014-11-14-dany.jpg</img>
+                <mobile>/2014/11/2014-11-14-dany-m.jpg</mobile>
+                <overlay>Jessica Simpson Dany - $49.99</overlay>
+            </slide>
+            <slide>
+                <href>/shoe-brand/mia-limited-edition</href>
+                <title>Shop Mia Limited Edition</title>
+                <img>2014/11/2014-11-14-mle.jpg</img>
+                <mobile>2014/11/2014-11-14-mle-m.jpg</mobile>
+                <overlay>Mia Limited Edition</overlay>
+            </slide>
+            <slide>
+                <href>/shoes-for/clearance-shoes</href>
+                <title>BOGO Free Clearance</title>
+                <img>/2014/11/2014-11-14-clearance.jpg</img>
+                <mobile>/2014/11/2014-11-14-clearance-m.jpg</mobile>
+                <overlay>BOGO Free Clearance</overlay>
+            </slide>
+            <slide>
+                <href>/shoe-brand/vince-camuto-signature</href>
+                <title>Shop Vince Camuto Signature</title>
+                <img>/2014/11/2014-11-14-vc-signature.jpg</img>
+                <mobile>/2014/11/2014-11-14-vc-signature-m.jpg</mobile>
+                <overlay>Vince Camuto Signature</overlay>
+            </slide>
+        </hero>
+        <banner>
+            <link>
+                <href>/womens-boots</href>
+                <text>New Boots Arriving Daily!</text>
+            </link>
+            <link>
+                <href>/shoes-for/riding-boots</href>
+                <text>Riding Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/biker-boots</href>
+                <text>Moto Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/western-boots</href>
+                <text>Western Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/chelsea-boots</href>
+                <text>Chelsea Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/combat-boots</href>
+                <text>Combat Boots</text>
+            </link>
+        </banner>
+        <mobile_banner>
+            <link>
+                <href>/womens-boots</href>
+                <text>Shop The Newest Boot Styles</text>
+            </link>
+        </mobile_banner>
+    </rotation>
+    <rotation>
+        <name>Rotation 11202014</name>
+        <start>1416470399</start>
+        <end>1416988800</end>
+        <key>rotation-11202014</key>
+        <enabled>1</enabled>
+        <hero>
+            <slide>
+                <href>/shoe-brand/mia</href>
+                <title>Shop Mia</title>
+                <img>/2014/11/2014-11-20-mia.jpg</img>
+                <mobile>/2014/11/2014-11-20-mia-m.jpg</mobile>
+                <overlay>Style Upgrade From Mia</overlay>
+            </slide>
+            <slide>
+                <href>/womens-boots/under-100-boots</href>
+                <title>Boots Under $100</title>
+                <img>/2014/11/2014-11-20-boots-under-100.jpg</img>
+                <mobile>/2014/11/2014-11-20-boots-under-100-m.jpg</mobile>
+                <overlay>Shop Boots Under $100</overlay>
+            </slide>
+            <slide>
+                <href>/womens-shoes/waleo-pale-pink-lux-nappa.html</href>
+                <title>Jessica Simpson Waleo - $39.99</title>
+                <img>/2014/11/2014-11-20-waleo.jpg</img>
+                <mobile>/2014/11/2014-11-20-waleo-m.jpg</mobile>
+                <overlay>Jessica Simpson Waleo - $39.99</overlay>
+            </slide>
+            <slide>
+                <href>/shoe-brand/badgley-mischka</href>
+                <title>Shop Badgley Mischka</title>
+                <img>/2014/11/2014-11-20-badgley-mischka.jpg</img>
+                <mobile>/2014/11/2014-11-20-badgley-mischka-m.jpg</mobile>
+                <overlay>Shop Badgley Mischka</overlay>
+            </slide>
+            <slide>
+                <href>/shoe-style/flats</href>
+                <title>Shop Flats</title>
+                <img>/2014/11/2014-11-20-flats.jpg</img>
+                <mobile>/2014/11/2014-11-20-flats-m.jpg</mobile>
+                <overlay>Shop Flats</overlay>
+            </slide>
+        </hero>
+        <banner>
+            <link>
+                <href>/womens-boots</href>
+                <text>New Boots Arriving Daily!</text>
+            </link>
+            <link>
+                <href>/shoes-for/riding-boots</href>
+                <text>Riding Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/biker-boots</href>
+                <text>Moto Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/western-boots</href>
+                <text>Western Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/chelsea-boots</href>
+                <text>Chelsea Boots</text>
+            </link>
+            <link>
+                <href>/shoes-for/combat-boots</href>
+                <text>Combat Boots</text>
+            </link>
+        </banner>
+        <mobile_banner>
+            <link>
+                <href>/womens-boots</href>
+                <text>Shop The Newest Boot Styles</text>
+            </link>
+        </mobile_banner>
+    </rotation>
+    <intl>Default</intl>
+</homepage>

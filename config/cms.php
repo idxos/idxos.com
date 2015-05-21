@@ -248,6 +248,6 @@ return [
     |
     */
 
-    'defaultMask' => ['file' => null, 'folder' => null],
+    'defaultMask' => ['file' => null, 'folder' => 775],
 
 ];
